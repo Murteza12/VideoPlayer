@@ -1,0 +1,20 @@
+PODS:
+  - GPVideoPlayer (1.0.4)
+  - HCVimeoVideoExtractor (0.0.1)
+
+DEPENDENCIES:
+  - GPVideoPlayer
+  - HCVimeoVideoExtractor
+
+SPEC REPOS:
+  trunk:
+    - GPVideoPlayer
+    - HCVimeoVideoExtractor
+
+SPEC CHECKSUMS:
+  GPVideoPlayer: fcb68bdba2522f3edd3145b0f1de17423e0b30e1
+  HCVimeoVideoExtractor: d3c251280f7027ffd324266e1930b3618e0adb46
+
+PODFILE CHECKSUM: 9cba7e845a409a2c9108c3664e22c68c41ce6482
+
+COCOAPODS: 1.8.3

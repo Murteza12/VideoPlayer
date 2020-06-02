@@ -10,11 +10,18 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var videoView: UIView!
+    var vidUrl = "https://vimeo.com/365814422"
+    let videoPlayer = VidepPlayer()
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
-
+    @IBAction func playButton(_ sender: Any) {
+        self.videoPlayer.getPlayVideoUrl(url: self.vidUrl, view: self.videoView)
+    }
+    
 }
 

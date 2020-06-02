@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-VideoPlayerTest/Pods-VideoPlayerTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GPVideoPlayer/GPVideoPlayer.framework
+${BUILT_PRODUCTS_DIR}/HCVimeoVideoExtractor/HCVimeoVideoExtractor.framework
